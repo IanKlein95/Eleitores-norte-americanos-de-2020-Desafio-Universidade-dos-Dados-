@@ -92,11 +92,11 @@ As pessoas hispânicas e de outras raças/miscigenadas são levemente mais novas
   # O que os eleitores consideram ser um bom americano
 
   O questionário aplicado utiliza uma escala likert, no qual:
-  -1 = Não sabe/Não respondeu
-  1 = considera o item muito importante
-  2 = considera o item importante
-  3 = considera o item pouco importante
-  4 = considera o item nada importante
+  - -1 = Não sabe/Não respondeu
+  - 1 = considera o item muito importante
+  - 2 = considera o item importante
+  - 3 = considera o item pouco importante
+  - 4 = considera o item nada importante
 
   Dentre os eleitores não-brancos (negros, hispânicos e outras raças/miscigenados:
 
