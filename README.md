@@ -91,6 +91,71 @@ As pessoas hispânicas e de outras raças/miscigenadas são levemente mais novas
 
   # O que os eleitores consideram ser um bom americano
 
+  O questionário aplicado utiliza uma escala likert, no qual:
+  -1 = Não sabe/Não respondeu
+  1 = considera o item muito importante
+  2 = considera o item importante
+  3 = considera o item pouco importante
+  4 = considera o item nada importante
+
+  Dentre os eleitores não-brancos (negros, hispânicos e outras raças/miscigenados:
+
+  ![votar](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/86cfc5cd-71aa-499b-b1dd-d67daa6f8cd5)
+
+  A maioria considera muito importante ou importante.
+
+  ![jurado](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/5ebb9dbd-ca2f-4909-a8de-2f5991656008)
+
+  Aproximandamente 80% dos eleitores não-brancos considera muito importante ou importante desempenhar o dever cívico de ser jurado.
+
+  ![bem informado](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/ef5945ee-784f-4a59-8653-4180ddfeb1f1)
+
+  Aproximandamente 87% dos eleitores não-brancos considera muito importante ou importante estar bem informado sobre o que acontece na política.
+
+  ![bandeira](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/f05d1f19-8d2c-48b8-9808-fd09b8cd7b17)
+
+  Aproximadamente 53% deles considera muito importante ou importante ostentar a bandeira. Aproximadamente 46% deles considera pouco importante ou nada importante o mesmo.
+
+  ![censo](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/f62db125-9181-4b44-88e5-2ccb5f3312c6)
+
+  A maioria absoluta considera muito importante ou importante participar do Censo.
+
+  ![juramento](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/6958b88e-7c58-4d1a-97b2-687dff91410a)
+
+  Aproximadamente 71% considera muito importante ou importante saber o juramento à bandeira. Aproximadamente 28% considera pouco ou nada importante o mesmo.
+
+  ![exército](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/fb30ca19-6be0-4911-864d-65afb0a52a99)
+
+  Aproximadamente 86% consdiera muito importante ou importante apoiar o exército.
+
+  ![opinião](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/c41c5fc8-49ee-4436-af89-2f73a40d46c4)
+
+  A maioria (aproximadamente 92%) considera importante ou muito importante respeitar a opinião divergente.
+
+  ![Deus](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/a5f22e2a-cd72-4ff3-b2c7-917ea85a6fbf)
+
+  Aproximadamente 70% considera importante ou muito importante acreditar em Deus. Aproximadamente 29% considera pouco ou nada importante o mesmo.
+
+  ![protestar](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/4fb3aed6-14ec-4e2d-abe6-7aa44c64f86f)
+
+  Aproximandamente 80% considera muito importante ou importante o direito de protestar.
+
+  Considerando a importância do ato de votar, de ostentar a bandeira americana e de apoiar o exército, existe maior unidade dos eleitores não-brancos em torno do ato de votar como muito importante ou importante. Ostentar a bandeira é a opção que possui mais proporção no sentido contrário (pouco importante ou nada), com um pouco mais de 40%.
+
+  Comparando essas perguntas em relação ao poder aquisitivo, mas para o mesmo público não-branco:
+
+  
+
+  
+
+
+
+
+
+
+
+
+
   
 
   
