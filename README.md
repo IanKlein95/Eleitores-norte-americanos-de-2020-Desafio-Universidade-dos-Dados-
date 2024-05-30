@@ -1,7 +1,7 @@
 # Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-
 Descrição do perfil dos eleitores norte-americanos, do que consideram ser um bom norte-americano e das suas escolhas partidárias em 2020
 
-O dataset contém dados de 5836 respondentes, contendo tanto suas características quanto as respostas que deram à um questionário aplicado por FiveThirtyEight. O link para o dataset é: https://github.com/fivethirtyeight/data/tree/master/non-voters. O objetivo original é entender melhor os eleitores norte-americanos, suas caractéristicas e desejos políticos no contexto das eleições de 2020. Aqui, a proposta é mapear o perfil da amostra, o que eles consideram ser um bom norte-americano e as suas escolhas e afinidades partidárias. Além disso, propõe-se um público alvo para os republicanos focarem em angariar mais votos com base em insights retirados das análises. Elas foram feitas por meio do Excel. 
+O dataset contém dados de 5837 respondentes, contendo tanto suas características quanto as respostas que deram à um questionário aplicado por FiveThirtyEight. O link para o dataset é: https://github.com/fivethirtyeight/data/tree/master/non-voters. O objetivo original é entender melhor os eleitores norte-americanos, suas caractéristicas e desejos políticos no contexto das eleições de 2020. Aqui, a proposta é mapear o perfil da amostra, o que eles consideram ser um bom norte-americano e as suas escolhas e afinidades partidárias. Além disso, propõe-se um público alvo para os republicanos focarem em angariar mais votos com base em insights retirados das análises. Elas foram feitas por meio do Excel. 
 
 As variáveis são:
 - voter_category:
@@ -143,6 +143,33 @@ As pessoas hispânicas e de outras raças/miscigenadas são levemente mais novas
   Considerando a importância do ato de votar, de ostentar a bandeira americana e de apoiar o exército, existe maior unidade dos eleitores não-brancos em torno do ato de votar como muito importante ou importante. Ostentar a bandeira é a opção que possui mais proporção no sentido contrário (pouco importante ou nada), com um pouco mais de 40%.
 
   Comparando essas perguntas em relação ao poder aquisitivo, mas para o mesmo público não-branco:
+
+  ![votar(faixa](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/a0e5519e-a32c-49f3-9d4e-4266599c48f2)
+
+  Embora se verifique que nas faixas de renda menores, votar ainda é considerado muito importante ou importante, ocorrem as proporções diminuem. Ocorre aumento, mesmo que mínimo, dentre aqueles das menores faixas de renda que consideram votar pouco ou nada importante.
+
+  ![ostentar(faixa)](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/ac9a05b3-a508-4493-8c5d-3ab8333c8d7a)
+
+  A proporção daqueles eleitores que consideram ostentar a bandeira muito importante ou importante também sobe proporcionalmente conforme as faixas de renda são menores. Da mesma forma, a proporção dos eleitores que consideram pouco ou nada importante aumenta levemente conforme se analisa as faixas de renda mais elevadas.
+
+  ![apoiar(faixa)](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/eff363f8-3c9b-49e2-be7d-68b79abe2200)
+
+  As proporções de significação do ato de votar se mantêm em grande medida ao longo das faixas de renda, com leves diminuições da importância nas classes mais baixas e leves aumentos da pouca ou nada importância desse ato.
+
+  Agora, olhando para a importância da tolerância dentre diferentes faixas etárias para esse grupo:
+
+  ![faixaetariaxtolerancia](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/d5e71207-cac6-4b2f-a04f-b3df8b07f71a)
+
+  A geração de 51 anos ou mais é a que, proporcionamente, mais tem eleitores que consideram muito importante ou importante. Contudo, as outras gerações também se destacam nessa escala. A faixa etária 18-30 anos tem uma proporção de eleitores que pouco se importam que é quase o dobro daquela da faixa etária de 51 anos ou mais, embora a proporção geral seja pequena.
+
+  # Escolhas partidárias
+
+  
+
+
+
+
+
 
   
 
