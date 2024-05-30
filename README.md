@@ -128,7 +128,7 @@ As pessoas hispânicas e de outras raças/miscigenadas são levemente mais novas
 
   As proporções de significação do ato de votar se mantêm em grande medida ao longo das faixas de renda, com leves diminuições da importância nas classes mais baixas e leves aumentos da pouca ou nada importância desse ato.
 
-  Agora, olhando para a importância da tolerância dentre diferentes faixas etárias para esse grupo:
+  Agora, olhando para a tolerância dentre as diferentes faixas etárias:
 
  ![toleranciaxfaixaetaria](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/ac523b6a-48f0-4c7b-8f36-1296c8bf7022)
 
