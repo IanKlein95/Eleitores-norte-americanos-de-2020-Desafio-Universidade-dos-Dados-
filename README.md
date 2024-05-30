@@ -18,6 +18,14 @@ As variáveis são:
 
   Ainda, o dataset contém as respostas das perguntas feitas. As perguntas se encontram no link do dataset posto acima.
 
+  Alguns resultados:
+  - Análise do perfil da amostra, com divisão similar de gênero, faixa de renda e escolaridade, com predomínio de eleitores brancos, com participação eleitoral que pende para a participação esporádica, e média de idade avançada.
+  - Presença de correlação moderada positiva entre nível de escolaridade e faixa de renda
+  - Presença de correlação muito fraca entre nível de escolaridade e participação eleitoral
+  - Presença de correlação moderada positiva entre idade e participação eleitoral
+  - O ato de votar é considerado muito importante ou importante entre os eleitores não-brancos, embora cerca de 1/4 deles não vote nunca.
+  - O Partido Republicano tem pouca identificação com os eleitores entre 18 e 30 anos, sendo um grupo focal importante a ser trabalhado.
+
   # Perfil dos eleitores da amostra
 
   ![Gênero](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/399980e3-0199-46e0-946d-c5f883f5140c)
@@ -64,8 +72,7 @@ As variáveis são:
 
   ![raçaxparticipacao-raçaxidade](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/3d9dc40a-9125-4dd4-9b91-138a15361c86)
 
-  Dentre todas as raças, a maioria vota esporadicamente. Enquanto mais brancos e negros votam sempre, hispânicos e pessoas de outras raças/miscigenadas votam raramente/nunca proporcionalmente.
-As pessoas hispânicas e de outras raças/miscigenadas são levemente mais novas do que as pessoas brancas e negras.
+  Dentre todas as raças, a maioria vota esporadicamente. Enquanto mais brancos e negros votam sempre, hispânicos e pessoas de outras raças/miscigenadas votam raramente/nunca proporcionalmente. As pessoas hispânicas e de outras raças/miscigenadas são levemente mais novas do que as pessoas brancas e negras.
 
   ![escolaridadexrenda-escolaridadexparticipaçao](https://github.com/IanKlein95/Eleitores-norte-americanos-de-2020-Desafio-Universidade-dos-Dados-/assets/125080692/7fe88556-f48c-4410-8af6-82a4881576a7)
 
